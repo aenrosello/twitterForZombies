@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  status: false
+  private: false
+  zombie_id: 1
+
+two:
+  status: false
+  private: false
+  zombie_id: 1
